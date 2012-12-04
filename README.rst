@@ -15,7 +15,7 @@ Please refer to docs/plugins.rst to figure out what plugin types are available,
 and what the do
 
 You'll find the detailed doc on
-`RTD <http://readthedocs.org/projects/django-shop/>`_
+`RTD <http://readthedocs.org/projects/django-shop/>`_ 123
 
 How to help:
 ============
